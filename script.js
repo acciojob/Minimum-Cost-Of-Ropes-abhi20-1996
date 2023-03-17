@@ -1,4 +1,4 @@
-function calculateMinCost() {
+function calculateMinCost() {https://www.svgrepo.com/show/345221/three-dots.svg
   //your code here
   var inputData= document.querySelector("#rope-lengths").value;
   var inputArr=inputData.split(",");
